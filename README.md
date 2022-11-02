@@ -13,7 +13,7 @@ Given starter code with a functional Express.js API, I added a MySQL database us
 Javascript, Node.js, Express.js, MySql, Sequelize, Insomnia Core
 
 ### Video Demo
-
+[Link to Video Demo](https://drive.google.com/file/d/1F51SjpZo8XX_4JU5wwJ4rEGBO9THagTW/view)
 
 ### Github Repo
 [Link to Screencastify](https://github.com/KarenAdkins84/effective-broccoli)
